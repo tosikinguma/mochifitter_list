@@ -186,9 +186,6 @@ def main():
         "https://booth.pm/ja/browse/3Dツール・システム?q=もちふぃった",
         "https://booth.pm/ja/browse/3Dツール・システム?q=mochifitter",
         "https://booth.pm/ja/browse/3Dツール・システム?q=Mochi Fitter",
-        "https://booth.pm/ja/browse/VRoid?q=もちふぃった",
-        "https://booth.pm/ja/browse/VRoid?q=mochifitter"
-        "https://booth.pm/ja/browse/VRoid?q=Mochi Fitter",
     ]
     
     # ファイルパス（リポジトリルートから実行される想定）
